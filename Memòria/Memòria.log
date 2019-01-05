@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.5)  5 JAN 2019 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.5)  5 JAN 2019 19:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,23 +535,32 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks25
 )
-(./Memòria.aux)
+(./Memòria.aux
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+)
 \openout1 = `Memòria.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-
-(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count271
 \scratchdimen=\dimen162
@@ -605,63 +614,172 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--54
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/PD_gravity_compensation_Block_Diagram.png, id=15, 531.9875pt x 277.035p
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+<images/PD_gravity_compensation_Block_Diagram.png, id=13, 531.9875pt x 277.035p
 t>
 File: images/PD_gravity_compensation_Block_Diagram.png Graphic file (type png)
 <use images/PD_gravity_compensation_Block_Diagram.png>
 Package pdftex.def Info: images/PD_gravity_compensation_Block_Diagram.png  used
- on input line 57.
-(pdftex.def)             Requested size: 369.88583pt x 192.62541pt.
-<images/PD_gravity_compensation_Simulink.png, id=17, 1273.75874pt x 571.13374pt
+ on input line 71.
+(pdftex.def)             Requested size: 258.91895pt x 134.83525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+<images/PD_gravity_compensation_Simulink.png, id=15, 1273.75874pt x 571.13374pt
 >
 File: images/PD_gravity_compensation_Simulink.png Graphic file (type png)
 <use images/PD_gravity_compensation_Simulink.png>
 Package pdftex.def Info: images/PD_gravity_compensation_Simulink.png  used on i
-nput line 66.
+nput line 81.
 (pdftex.def)             Requested size: 369.88583pt x 165.85112pt.
+[2 <./images/PD_gravity_compensation_Block_Diagram.png>]
+<images/PD_Robot_Initial_q.png, id=21, 378.41376pt x 388.45125pt>
+File: images/PD_Robot_Initial_q.png Graphic file (type png)
+<use images/PD_Robot_Initial_q.png>
+Package pdftex.def Info: images/PD_Robot_Initial_q.png  used on input line 90.
+(pdftex.def)             Requested size: 221.93375pt x 227.82097pt.
+ [3 <./images/PD_gravity_compensation_Simulink.png>]
+<images/PD_Robot_final_q.png, id=26, 410.53375pt x 402.50375pt>
+File: images/PD_Robot_final_q.png Graphic file (type png)
+<use images/PD_Robot_final_q.png>
+Package pdftex.def Info: images/PD_Robot_final_q.png  used on input line 97.
+(pdftex.def)             Requested size: 221.93375pt x 217.5883pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--69
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\OT1/cmr/bx/n/14.4 Control de din^^Ramica in-versa en l'espai
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
-[2 <./images/PD_gravity_compensation_Block_Diagram.png>] [3 <./images/PD_gravit
-y_compensation_Simulink.png>] (./Memòria.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[4 <./images/PD_Robot_Initial_q.png> <./images/PD_Robot_final_q.png>]
+<images/Inv_Dyn_Plant_Bloc.png, id=32, 388.45125pt x 143.53625pt>
+File: images/Inv_Dyn_Plant_Bloc.png Graphic file (type png)
+<use images/Inv_Dyn_Plant_Bloc.png>
+Package pdftex.def Info: images/Inv_Dyn_Plant_Bloc.png  used on input line 113.
+
+(pdftex.def)             Requested size: 258.91895pt x 95.67598pt.
+<images/Inverse_Dynamics_Block_Diagram.png, id=33, 642.4pt x 351.3125pt>
+File: images/Inverse_Dynamics_Block_Diagram.png Graphic file (type png)
+<use images/Inverse_Dynamics_Block_Diagram.png>
+Package pdftex.def Info: images/Inverse_Dynamics_Block_Diagram.png  used on inp
+ut line 122.
+(pdftex.def)             Requested size: 258.91895pt x 141.59998pt.
+<images/Inverse_Dynamics_Simulink.png, id=34, 1104.125pt x 538.01pt>
+File: images/Inverse_Dynamics_Simulink.png Graphic file (type png)
+<use images/Inverse_Dynamics_Simulink.png>
+Package pdftex.def Info: images/Inverse_Dynamics_Simulink.png  used on input li
+ne 132.
+(pdftex.def)             Requested size: 369.88583pt x 180.23651pt.
+ [5 <./images/Inv_Dyn_Plant_Bloc.png> <./images/Inverse_Dynamics_Block_Diagram.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+File: images/PD_Robot_Initial_q.png Graphic file (type png)
+<use images/PD_Robot_Initial_q.png>
+Package pdftex.def Info: images/PD_Robot_Initial_q.png  used on input line 145.
+
+(pdftex.def)             Requested size: 221.93375pt x 227.82097pt.
+[6 <./images/Inverse_Dynamics_Simulink.png>]
+File: images/PD_Robot_final_q.png Graphic file (type png)
+<use images/PD_Robot_final_q.png>
+Package pdftex.def Info: images/PD_Robot_final_q.png  used on input line 152.
+(pdftex.def)             Requested size: 221.93375pt x 217.5883pt.
+ [7] [8] (./Memòria.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13697 strings out of 492649
- 256745 string characters out of 6129622
- 326400 words of memory out of 5000000
- 17479 multiletter control sequences out of 15000+600000
- 535954 words of font info for 42 fonts, out of 8000000 for 9000
+ 13732 strings out of 492649
+ 257846 string characters out of 6129622
+ 324507 words of memory out of 5000000
+ 17509 multiletter control sequences out of 15000+600000
+ 535861 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,40p,10428b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf
--dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Memòria.pdf (3 pages, 239752 bytes).
+ 42i,6n,40p,10428b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Memòria.pdf (8 pages, 715748 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,9 @@
+%Robotic Toolbox
+run('./rvctools/startup_rvc.m')
+
 %Initialization of the Unimation PUMA 560 serial manipulator Model
 mdl_puma560
+
 %Verify the data
 p560
 
